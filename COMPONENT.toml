@@ -3,7 +3,7 @@ name = "SigmaOS-arch-photon-mapping-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-photon-mapping-kernel component"
+description = "SigmaOS SigmaOS-arch-photon-mapping-kernel component"
 upstream = []
 
 [contract]
